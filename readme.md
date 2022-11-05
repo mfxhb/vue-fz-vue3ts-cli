@@ -2,6 +2,11 @@
 
 elementPlus+pinia+vite+ts+vue-router+axios 在 vue3+ts 中的封装
 
+`介绍`
+```
+vue3+ts版的基础脚手架当中,简单的对这些常用的第三方都进行了一遍封装,然后已todolist呈现,这些第三方:pinia+vite+vue-router+axios
+```
+
 # 启动
 
 一:拉取代码
