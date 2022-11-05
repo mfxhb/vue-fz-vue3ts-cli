@@ -1,0 +1,24 @@
+# Logs
+web-code/logs
+*.log
+web-code/npm-debug.log*
+web-code/yarn-debug.log*
+web-code/yarn-error.log*
+web-code/pnpm-debug.log*
+web-code/lerna-debug.log*
+
+web-code/node_modules
+server/node_modules
+web-code/dist
+web-code/dist-ssr
+web-code/*.local
+
+# Editor directories and files
+web-code/.vscode/*
+web-code/.idea
+web-code/.DS_Store
+web-code/*.suo
+web-code/*.ntvs*
+web-code/*.njsproj
+web-code/*.sln
+web-code/*.sw?
