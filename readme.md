@@ -1,4 +1,4 @@
-# vue3+ts 后台简易封装
+# vue3+ts 简易封装
 
 elementPlus+pinia+vite+ts+vue-router+axios 在 vue3+ts 中的封装
 
